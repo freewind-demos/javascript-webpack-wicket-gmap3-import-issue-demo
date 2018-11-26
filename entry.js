@@ -1,3 +1,5 @@
-require('./index.css')
+import Wkt from 'wicket/wicket-gmap3.js';
 
-document.write('The body should have a yellow background color now')
+const wicket = new Wkt.Wkt('POINT(30 10)');
+
+document.write(JSON.stringify(wicket, null, 2));

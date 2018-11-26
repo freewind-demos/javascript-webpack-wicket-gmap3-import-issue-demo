@@ -2,6 +2,9 @@
   "scripts": {
     "demo": "webpack && open index.html"
   },
+  "dependencies": {
+    "wicket": "kbejnar/Wicket#add-umd"
+  },
   "devDependencies": {
     "css-loader": "^0.23.1",
     "style-loader": "^0.13.1",

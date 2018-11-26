@@ -1,13 +1,10 @@
-Webpack Config File Demo
-========================
+JavaScript Webpack "wicket-gmap3" Import Issue Demo
+===================================================
 
-Put all settings in `webpack.config.js`
+Issue: https://github.com/arthur-e/Wicket/issues/132
 
 ```
 npm install
 npm run demo
 ```
 
-Then open `index.html` in your browser.
-
-![demo](./images/demo.jpg)
